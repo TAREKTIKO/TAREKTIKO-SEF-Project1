@@ -32,7 +32,7 @@ body{font-family: 'playfair display', serif;}
 .intro-section-content h2{font-size: 40px;text-transform: uppercase;color: #5C2D91;}
 .h2-underline{width: 150px;height: 5px;background-color: #D7CFF8;margin: 10px auto 40px auto;}
 .cards-content{position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);text-align: center;margin: auto;width: 100%;}
-.cards-content .cards{display: inline-block;border: 2px solid #D7CFF8;width: 30%;height: 350px;background-color: #F5F5F5;margin: 0px 15px;border-radius: 15px;transition: 0.9s;position: relative;overflow: hidden;}
+.cards-content .cards{display: inline-block;border: 2px solid #D7CFF8;width: 30%;height: 350px;background-color: #faf9ff;margin: 0px 15px;border-radius: 15px;transition: 0.9s;position: relative;overflow: hidden;}
 .cards-content .cards:hover{box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);transform: scale(1.1);border: 2px solid #31336E;}
 .cards-content .cards * {position: relative;z-index: 5;transition: 0.5s;}
 .cards-content .cards i{color: #5C2D91;font-size: 50px;margin: 30px 0px;}
@@ -58,7 +58,7 @@ body{font-family: 'playfair display', serif;}
 .img-info a i{font-size: 25px;padding: 0px 5px;cursor: pointer;transition: 0.9s;background-color: white;color: #5C2D91;border-radius: 15%;height: 45px;width: 45px;line-height: 45px;}
 .img-info a i:hover{color: #D7CFF8;}
 .pic-content:hover .img-info{opacity: 1;}
-/* Offer-Section */.what-we-offer-section .cards-content .offer-cards{display: inline-block;border: 2px solid #D7CFF8;height: 250px;width: 30%;background-color: #F5F5F5;margin: 25px 15px 0px;border-radius: 15px;transition: 0.9s;position: relative;overflow: hidden;}
+/* Offer-Section */.what-we-offer-section .cards-content .offer-cards{display: inline-block;border: 2px solid #D7CFF8;height: 250px;width: 30%;background-color: #faf9ff;margin: 25px 15px 0px;border-radius: 15px;transition: 0.9s;position: relative;overflow: hidden;}
 .what-we-offer-section .cards-content .offer-cards .offercard-icon{position: absolute;top: 0;left: 20;width: calc(100%-25px);}
 .what-we-offer-section .cards-content .offer-cards .offercard-text{position: absolute;top: 0;left: 85;width: calc(100% - 75px);text-align: left;}
 .what-we-offer-section .cards-content .offer-cards i{font-size: 45px;}
@@ -74,7 +74,7 @@ body{font-family: 'playfair display', serif;}
 .chooseus-text ul li i{float: left;margin: 30px 10px 0px 0px;}
 .chooseus-text ul li span{line-height: 26px;display: block;float: left;margin-top: 25px;}
 .chooseus-pic{position: absolute;top: 40%;right: 50px;transform: translateY(-50%);width: 480px;height: 600px;border-radius: 15px;overflow: hidden;padding: 0;transition: 0.9s;}
-.chooseus-pic:hover{box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);transform:rotate(10deg) translateY(-50%);}
+.chooseus-pic:hover{box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);transform:rotate(10deg) translateY(-50%); }
 .chooseus-pic img{width: 100%;height: 100%;}
 .chooseus-pic-bullets ul{position: absolute;bottom: 20%;left: 79%;transform: translateY(100%);}
 .chooseus-pic-bullets ul li{width: 15px;height: 15px;background-color: #785F9C;border-radius: 50%;display: inline-block;  margin: 0px 5px;cursor: pointer;transition: 0.9s;}
@@ -95,7 +95,8 @@ body{font-family: 'playfair display', serif;}
 /* BreakII-Section */.BreakII-Section{background: url(../img/PerfumeWallpaper2.jpg) no-repeat fixed center/cover;}
 .BreakII-Section-content{position: absolute;top: 50%;left: 50%;width: 100%;transform: translate(-50%, -50%);text-align: center;color: white;}
 .Emp-details {float: right;width: 45%;}
-.emp-img {float: left;width: 80px;height: 80px;border-radius: 50%;margin-right: 35px;}
+.emp-img {float: left;width: 80px;height: 80px;border-radius: 50%;margin-right: 35px; border: 5px solid #5C2D91;transition: 0.9s;}
+.emp-img:hover{transform:scale(1.1);}
 .emp-info {float: left;padding-top: 10px;}
 .emp-info h3 {margin: 0;font-size: 28px;font-weight: bold;}
 .emp-info .job-title {margin: 5px 0 0 0;color: #5C2D91; font-weight: bold;float: left;}
@@ -104,7 +105,7 @@ body{font-family: 'playfair display', serif;}
 .our-team-cards:hover .team-icons i {opacity: 1;background-color: white;color: #5C2D91;border: 1px solid #5C2D91;}
 .our-team-Section .our-team-cards:hover .our-team-img::after{opacity: 1;}
 .our-team-cards .our-team-img {height: 60%;width: 70%;margin: 25px auto;position: relative;}
-.our-team-cards .our-team-img img {height: 100%;width: 100%;position: relative;z-index: 0;}
+.our-team-cards .our-team-img img {height: 100%;width: 100%;position: relative;z-index: 0;border-radius: 15px;transition: 0.9s;}
 .our-team-Section .our-team-cards .our-team-img::after{content: "";position: absolute;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(92, 45, 145, 0.6);opacity: 0;transition: 0.5s;}
 .our-team-img .team-icons{position: absolute;top: 0px;right: 0px;}
 .our-team-img .team-icons i{display: block;font-size: 30px;height: 50px;width: 50px;line-height: 50px;text-align: center;margin: 0;background-color: #5C2D91;color: white;border-radius: 6px;cursor: pointer;opacity: 0;transition: 0.9s;border: 1px solid #5C2D91;}
