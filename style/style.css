@@ -99,7 +99,7 @@ body{font-family: 'playfair display', serif;}
 .emp-info {float: left;padding-top: 10px;}
 .emp-info h3 {margin: 0;font-size: 28px;font-weight: bold;}
 .emp-info .job-title {margin: 5px 0 0 0;color: #5C2D91; font-weight: bold;float: left;}
-.Emp-paragraph {padding-top: 15px;font-size: 14px;line-height: 1.5;float: left;}
+.Emp-paragraph {padding-top: 15px;font-size: 14px;line-height: 1.5;float: left; width: 80%; text-align: left;}
 /* Our Team-Section */.cards-content .our-team-cards{height: 400px;}
 .our-team-cards:hover .team-icons i {opacity: 1;background-color: white;color: #5C2D91;border: 1px solid #5C2D91;}
 .our-team-Section .our-team-cards:hover .our-team-img::after{opacity: 1;}
@@ -108,6 +108,7 @@ body{font-family: 'playfair display', serif;}
 .our-team-Section .our-team-cards .our-team-img::after{content: "";position: absolute;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(92, 45, 145, 0.6);opacity: 0;transition: 0.5s;}
 .our-team-img .team-icons{position: absolute;top: 0px;right: 0px;}
 .our-team-img .team-icons i{display: block;font-size: 30px;height: 50px;width: 50px;line-height: 50px;text-align: center;margin: 0;background-color: #5C2D91;color: white;border-radius: 6px;cursor: pointer;opacity: 0;transition: 0.9s;border: 1px solid #5C2D91;}
+.our-team-img .team-icons i:hover{background-color:#5C2D91;color: white;}
 /* News-Section */.recent-news-Section{height: 90vh;background-color: rgba(215, 207, 248, 0.4);}
 .recent-news-section-content h2{margin-top: 25px;}
 .cards-content .news-cards{height: auto;}
