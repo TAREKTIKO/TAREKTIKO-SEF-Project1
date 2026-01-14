@@ -18,4 +18,6 @@ https://tarektiko.github.io/TAREKTIKO-SEF-Project1/
 Tarek Ahmed Mahmoud Ahmed  
 SEF Academy
 ---
-![Preview](https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif)
+<picture>
+  <img align="right" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" width="250px">
+</picture>
