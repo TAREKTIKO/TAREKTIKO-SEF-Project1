@@ -74,7 +74,7 @@ body{font-family: 'playfair display', serif;}
 .chooseus-text ul li i{float: left;margin: 30px 10px 0px 0px;}
 .chooseus-text ul li span{line-height: 26px;display: block;float: left;margin-top: 25px;}
 .chooseus-pic{position: absolute;top: 40%;right: 50px;transform: translateY(-50%);width: 480px;height: 600px;border-radius: 15px;overflow: hidden;padding: 0;transition: 0.9s;}
-.chooseus-pic:hover{box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);transform:rotate(10deg) translateY(-50%); }
+.chooseus-pic:hover{box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);transform:rotate(10deg) translateY(-50%);}
 .chooseus-pic img{width: 100%;height: 100%;}
 .chooseus-pic-bullets ul{position: absolute;bottom: 20%;left: 79%;transform: translateY(100%);}
 .chooseus-pic-bullets ul li{width: 15px;height: 15px;background-color: #785F9C;border-radius: 50%;display: inline-block;  margin: 0px 5px;cursor: pointer;transition: 0.9s;}
