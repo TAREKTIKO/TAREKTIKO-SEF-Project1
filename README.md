@@ -1,9 +1,22 @@
-<h3>Content:</h3>
-  <p style="color:blue;">Building a landing page for perfume products</p>
-<h3>Language Used</h3>
-  <p>HTML - CSS</p> 
-<h3>Additional information: </h3>
-  <p>Name: Tarek Ahmed Mahmoud Ahmed <br>
-  Code: 285222256604 <br>
-  For: SEF Academy <br>
-  link: https://tarektiko.github.io/TAREKTIKO-SEF-Project1/</p>
+## Project Overview
+This repository contains a simple landing page created as part of a training project.
+The landing page focuses on presenting perfume products using a clean and organized layout.
+
+## Technologies Used
+- HTML
+- CSS
+
+## Project Scope
+- Static landing page
+- Basic responsive layout
+- Practicing HTML & CSS fundamentals
+
+## Live Demo
+https://tarektiko.github.io/TAREKTIKO-SEF-Project1/
+
+## Author
+Tarek Ahmed Mahmoud Ahmed  
+SEF Academy
+---
+
+![Preview](https://media.tenor.com/images/cfeopMwD7zq/tenor.gif)
