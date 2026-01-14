@@ -2,7 +2,7 @@
   Building a landing page for perfume products
 <!--Language-->
 -Languages ​​used:
-  HTML and CSS were used
+  HTML - CSS 
 <!--Informations-->
 -Additional information:
   Name: Tarek Ahmed Mahmoud Ahmed
